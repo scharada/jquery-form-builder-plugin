@@ -1,0 +1,4 @@
+As it is JQuery/JavaScript project, running it is simple and no compilation required. With your preferred web browser and [SVN Client](http://en.wikipedia.org/wiki/Comparison_of_Subversion_clients), you are ready to go! Please follow steps below:
+  1. Check out the source code with your svn client by follow instructions at http://code.google.com/p/jquery-form-builder-plugin/source/checkout
+  1. Open `src/formbuilder.html` using your web browser, you should see whatever you saw in the [demo site](http://jquery-form-builder-plugin.appspot.com/) or more (features under development).
+  1. You can start [creating new field](HowToCreateNewField.md).
